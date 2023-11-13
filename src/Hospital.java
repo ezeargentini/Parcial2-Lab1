@@ -3,9 +3,7 @@ import java.util.ArrayList;
 public class Hospital {
     private String nombre;
     private String ubicacion;
-
     private ArrayList<Paciente> pacientes = new ArrayList<>();
-
     public Hospital() {
     }
 

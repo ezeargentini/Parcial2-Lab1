@@ -2,7 +2,6 @@ public class Paciente {
     private String nombre;
     private String apellido;
     private int idPaciente;
-
     public Paciente() {
     }
 
